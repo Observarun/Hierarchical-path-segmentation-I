@@ -16,8 +16,8 @@ Hierarchical agglomerative algorithms implement bottom-up clustering methodology
 
 ## Results
 
-![ClustersOwl](https://github.com/Observarun/StaME-extraction_CAMs/assets/83636458/eb8c67a1-90ba-4407-8e61-866430789d92)
+![ClustersOwl](https://github.com/Observarun/Hierarchical-path-segmentation-I/issues/1#issue-2448444689)
 *StaMEs obtained by clustering segments from the tracks of two different barn owls.*
 
-![ClustersSim](https://github.com/Observarun/StaME-extraction_CAMs/assets/83636458/dfb5fef1-2af4-401e-b99d-c779e61516e7)
+![ClustersSim](https://github.com/Observarun/Hierarchical-path-segmentation-I/issues/2#issue-2448445665)
 *Clustering results from 10-point and 30-point segmentation of the simulation data.*
